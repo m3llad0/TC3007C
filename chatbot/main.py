@@ -16,7 +16,7 @@ def main():
     # Create assistant
     assistant = Assistant(
         assistant_name="My Assistant",
-        assistant_instructions="This is my assistant. It will help me with my work.",
+        assistant_instructions="Support the user in practicing a new language. Engage in conversations, provide translations, and offer language-learning tips.",
     )
 
     # Create thread
